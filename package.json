@@ -2,7 +2,7 @@
   "name": "AnalizaObrazowCrawler",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/sfrydrych/PracaMagisterska/AnalizaObrazowCrawler.git",
+  "repository": "https://github.com/sfrydrych/AnalizaObrazowCrawler.git",
   "author": "Sławomir Frydrych <slawomir.frydrych@student.up.krakow.pl>",
   "license": "MIT",
   "dependencies": {
